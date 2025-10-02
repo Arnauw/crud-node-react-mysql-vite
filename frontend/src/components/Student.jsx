@@ -42,7 +42,6 @@ export const Student = () => {
     //         });
     // }
 
-
     return (
         <>
             <div className="min-h-screen min-w-screen bg-gray-100 flex flex-col items-center p-4">
